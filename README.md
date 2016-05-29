@@ -17,5 +17,5 @@ The installation creates `docker-machine` security group. Edit permissions to al
 * Access Portus UI with browser at `http://<ip>:3000`  
 * Use registry at `http://<ip>:5000`
 
-## Delete Cluster  
+## Delete Portus Registry  
 * `docker-machine rm -f portus`
